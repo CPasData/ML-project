@@ -21,6 +21,8 @@ Proyecto de Machine Learning para predecir las ventas globales de videojuegos a 
 └── main.py
 └── pyproject.toml
 └── uv.lock
+└── .gitignore
+└── .python-version
 ```
 
 ---
